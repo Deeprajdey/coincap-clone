@@ -3,6 +3,7 @@
 :root {
   --default-color: #343a40;
   --default-bg-color: #dee2e6;
+  --defaultVal:black;
 }
 
 *,
